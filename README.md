@@ -2,4 +2,4 @@
 straightforward example of efa
 
 
-R code for efa. example output to come
+R code for efa (example output to come)
